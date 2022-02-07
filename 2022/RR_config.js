@@ -127,12 +127,6 @@ var config_data = `
         },
         "defaultValue":"x"
       },
-      "IGNORE THIS": {
-        "code":"ss",
-        "title": "Shooting Spot",
-        "type":"Bool",
-        "filename":"2022/field_image.png"
-      }
     },
     "endgame": {
       "Climb": {
